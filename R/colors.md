@@ -19,7 +19,7 @@ from: https://r-graph-gallery.com/42-colors-names.html<br>
 <br>
 
 Overview of R colors.  Explained in PDF. ↓ <br>
-![](/files/colorPaletteCheatsheet.pdf)
+![](files/colorPaletteCheatsheet.pdf)
 https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf
 
 
