@@ -1,4 +1,4 @@
-# R colors
+# R colors 🟣🔴💚🟦 
 
 type `color()` in R consol to list all color names for R representation 👀
 
@@ -17,7 +17,7 @@ Selected color chart for you real quick. <br>
 from: https://r-graph-gallery.com/42-colors-names.html<br>
 <br>
 
-Overview of R colors can be found here ↓ <br>
+Overview of R colors.  Explained in PDF. ↓ <br>
 https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf
 ![](/files/colorPaletteCheatsheet.pdf)
 
