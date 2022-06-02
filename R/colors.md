@@ -1,6 +1,6 @@
 # R colors
 
-`color()` to list all color names for R representation
+type `color()` in R consol to list all color names for R representation 👀
 
 #color_r 
 
