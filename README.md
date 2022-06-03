@@ -2,7 +2,7 @@
 
 ## Datasets
 📌 List of Datasets <br>
-📌 Datasets in R Packages<br>
+📌 [Datasets in R Packages](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/R/datasets.md#datasets)<br>
 📌 <br>
 
 ## R
