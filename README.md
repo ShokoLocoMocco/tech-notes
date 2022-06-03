@@ -3,7 +3,7 @@
 ## Datasets
 ## R
 tech-notes/R/ <br>
-R/colors.md
+- [Colors](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/R/colors.md#r-colors-)
 
 ## Git
 ## more to be added
