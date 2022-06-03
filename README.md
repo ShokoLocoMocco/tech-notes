@@ -2,7 +2,7 @@
 I started out with this repo to organize my notes, but I also decided to share it with my network, especially coding beginners.
 
 ## Datasets
-📌 List of Dataset Resources <br>
+📌 [List of Dataset Resources](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/datasets.md) <br>
 📌 [Datasets in R Packages](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/R/datasets.md#datasets)<br>
 📌 <br>
 
