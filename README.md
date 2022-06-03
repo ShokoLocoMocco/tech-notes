@@ -1,4 +1,4 @@
-# Showee's Tech Notes
+# 📌 Showee's Tech Notes ✍️✍️
 
 ## Datasets
 - List of Datasets
