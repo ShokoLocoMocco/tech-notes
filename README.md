@@ -1,4 +1,5 @@
 # 💎 Showee's Tech Notes ✍️✍️
+I started out with this repo to organize my notes, but I also decided to share it with my network, especially coding beginners.
 
 ## Datasets
 📌 List of Datasets <br>
