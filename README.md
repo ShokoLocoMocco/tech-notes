@@ -19,7 +19,7 @@ I started out with this repo to organize my notes, but I also decided to share i
 📌 <br>
 
 ## Resources
-📌 [Free Web Textbooks](/Resource/text.md) <br>
+📌 [Free Web Textbooks](/resource/text.md) <br>
 📌 <br>
 📌 <br>
 📌 <br>
