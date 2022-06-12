@@ -13,8 +13,13 @@ I started out with this repo to organize my notes, but I also decided to share i
 📌 <br>
 📌 <br>
 
+
 ## Git
 📌 <br>
+📌 <br>
+
+## Resources
+📌 [Free Web Textbooks](/Resource/text.md) <br>
 📌 <br>
 📌 <br>
 📌 <br>
