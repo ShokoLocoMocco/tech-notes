@@ -1,5 +1,5 @@
 # 💎 Showee's Tech Notes ✍️🔖
-I started out with this repo to organize my notes, but I also decided to share it with my network, especially coding beginners.
+I launched this repo to organize my notes, but I decided I'd also share it with my network, especially coding beginners.
 
 ## Datasets
 📌 [List of Dataset Resources](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/datasets.md) <br>
