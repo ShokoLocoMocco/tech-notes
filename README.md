@@ -9,7 +9,7 @@ I started out with this repo to organize my notes, but I also decided to share i
 ## R
 
 📌 [Colors](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/R/colors.md#r-colors-) <br>
-📌 <br>
+📌 [Cheat Sheets](https://github.com/rstudio/cheatsheets) that you can't live without <br>
 📌 <br>
 📌 <br>
 
