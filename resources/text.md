@@ -14,6 +14,7 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 
 
 ## R
+- [What They Forgot to Teach You About R](https://rstats.wtf/index.html) by Jennifer Bryan, Jim Hester
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/mastery.html) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen *_say no more, fam_
 - [Spatial Data Science with applications in R](https://keen-swartz-3146c4.netlify.app/) by Edzer Pebesma, Roger Bivand
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) by Yihui Xie, Christophe Dervieux, Emily Riederer
