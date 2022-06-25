@@ -1,6 +1,6 @@
 # "Free" Web Textbooks for Data Analysis and Data Visualization Learners
 
-Here's a list of "free" web textbooks I have appreciated from the get-go and to further work for my data projects.  If you are a broke student like me but eager to learn, this list is perfect for YOU! (...and no worries, rich kids can learn from these books too. 😉😂)
+Here's a list of "free" web textbooks I have appreciated from the get-go and to further work on my data projects.  If you are a broke student like me but eager to learn, this list is perfect for YOU! (...and no worries, rich kids can learn from these books too. 😉😂)
 
 ## Data Visualization
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
