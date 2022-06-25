@@ -34,7 +34,7 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 ## JavaScript
 - [Interactive Data Visualization for the Web](https://alignedleft.com/work/d3-book-2e) by Scott Murray *_d3. PDF available somewhere on the internet (@ me)_ 
 - [JavaScript for R](https://book.javascript-for-r.com/) by John Coene 
-- 
+- [Eloquent JavaScript 3rd edition (2018)](https://eloquentjavascript.net/) by Marijn Haverbeke
 
 
 
