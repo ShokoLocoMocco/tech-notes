@@ -50,3 +50,4 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 
 
 
+created by [ShoT.MBA](https://shot.mba) via [ShokoLocoMocco](https://github.com/ShokoLocoMocco)
