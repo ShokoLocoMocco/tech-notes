@@ -24,12 +24,15 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 - [**Mastering Shiny**](https://mastering-shiny.org/index.html) by Hadley Wickham *_must read for all Shiny developers_
 - [**JavaScript for R**](https://book.javascript-for-r.com/) by John Coene 
 - [**Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python**](https://www.researchgate.net/profile/Janine-Zitianellis/post/Can_anyone_please_suggest_a_books_on_machine_learning_using_R_Programming/attachment/613a5b83647f3906fc975a71/AS%3A1066204907204608%401631214467436/download/Practical+Statistics+for+Data+Scientists+50%2B+Essential+Concepts+Using+R+and+Python+by+Peter+Bruce%2C+Andrew+Bruce%2C+Peter+Gedeck.pdf) by Peter Bruce, Andrew Bruce, and Peter Gedeck *_link downloads PDF from ReserachGate_
-- 
+- [**Introduction to Econometrics with R**](https://www.econometrics-with-r.org/index.html) by Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer 
 
 
 ## Statistical Analysis
 - [**Statistics Done Wrong The woefully complete guide**](https://www.statisticsdonewrong.com/index.html) by Alex Reinhart
 - [**Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python**](https://www.researchgate.net/profile/Janine-Zitianellis/post/Can_anyone_please_suggest_a_books_on_machine_learning_using_R_Programming/attachment/613a5b83647f3906fc975a71/AS%3A1066204907204608%401631214467436/download/Practical+Statistics+for+Data+Scientists+50%2B+Essential+Concepts+Using+R+and+Python+by+Peter+Bruce%2C+Andrew+Bruce%2C+Peter+Gedeck.pdf) by Peter Bruce, Andrew Bruce, and Peter Gedeck *_link downloads PDF from ReserachGate_
+- [**Introduction to Econometrics with R**](https://www.econometrics-with-r.org/index.html) by Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer 
+- 
+
 
 ## JavaScript
 - [**Interactive Data Visualization for the Web**](https://alignedleft.com/work/d3-book-2e) by Scott Murray *_d3. PDF available somewhere on the internet (@ me)_ 
