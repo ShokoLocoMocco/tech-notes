@@ -52,8 +52,8 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 - 
 
 ## HTML/CSS
-- [html & css is hard (But it doesn’t have to be)](https://www.internetingishard.com/html-and-css/) by Oliver James
-- [Learn CSS Layout](https://learnlayout.com/toc.html) by Greg Smith, Isaac Durazo
+- [**HTML & CSS IS HARD (BUT IT DOESN'T HAVE TO BE**)](https://www.internetingishard.com/html-and-css/) by Oliver James
+- [**Learn CSS Layout**](https://learnlayout.com/toc.html) by Greg Smith, Isaac Durazo
 - 
 
 <br>
