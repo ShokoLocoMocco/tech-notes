@@ -51,6 +51,10 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 - [**Spatial Data Science with applications in R**](https://keen-swartz-3146c4.netlify.app/) by Edzer Pebesma, Roger Bivand
 - 
 
+## HTML/CSS
+- [html & css is hard (But it doesn’t have to be)](https://www.internetingishard.com/html-and-css/) by Oliver James
+- [Learn CSS Layout](https://learnlayout.com/toc.html) by Greg Smith, Isaac Durazo
+- 
 
 <br>
 <br>
