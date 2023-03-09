@@ -1,4 +1,4 @@
-# 💎 Showee's Tech Notes ✍️🔖
+# 💎 Showee's Tech Notes ✍️🔖 ~ Data Analyst ver.
 I initially launched this repo to organize my notes, but I decided I'd also share it with my network, especially coding beginners.
 
 ## Datasets
@@ -40,3 +40,4 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 📌 <br>
 
 ## more to be added
+📌 stay tuned! <br>
