@@ -13,6 +13,13 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 📌 <br>
 📌 <br>
 
+## SQL
+📌 [Basic Functions](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf)<br>
+📌 <br>
+
+## Python
+📌 <br>
+📌 <br>
 
 ## Git
 📌 <br>
