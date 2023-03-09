@@ -14,7 +14,7 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 📌 <br>
 
 ## SQL
-📌 [Basic Functions](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf)<br>
+📌 [Basic Functions](https://github.com/ShokoLocoMocco/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf) Cheat Sheet<br>
 📌 <br>
 
 ## Python
@@ -28,8 +28,8 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 ## Marketing Research & Analysis Resources
 📌 [SEO Step-by-Step Tutorial](https://blog.hubspot.com/blog/tabid/6307/bid/1436/shortest-tutorial-ever-on-seo-search-engine-optimization.aspx)<br>
 📌 [Semrush SEO Crash Course with Brian Dean](https://www.semrush.com/academy/courses/semrush-seo-crash-course-with-brian-dean/lessons/lesson-1/)<br>
-📌 [Email Marketing - MailChimp](https://mailchimp.com/resources/email/) <br>
-📌 [Email Marketing - HubSpot](https://mailchimp.com/resources/email/)<br>
+📌 [Email Marketing](https://mailchimp.com/resources/email/) by MailChimp<br>
+📌 [Email Marketing](https://mailchimp.com/resources/email/) by HubSpot<br>
 📌 <br>
 📌 <br>
 
