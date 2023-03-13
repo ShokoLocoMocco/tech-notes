@@ -1,11 +1,11 @@
-## Showee's Epic Datasets List
+# Showee's Epic Datasets List
 
 During my data exploration in the last few years, I collected datasets literally from anywhere in my reach.  With lots of support from my network, the list is getting longer and thought I'd share it with my data fellas tp pay it forward.  
 I'd also appreciate if you have more data sources you'd want me to add. :)
 <br>
 
 
-Disclaimer: This is a randomly formatted personal list (may include duplicates, being organized accordingly) and appears to be entirely US centered (especially of NYC), but you may get the idea. Your local communities/governments should have similar open datasets. 
+Disclaimer: This is a randomly-formatted personal note (may include duplicates, being organized accordingly) and appears to be entirely US centered (especially of NYC), but you may get the idea. Your local communities/governments should have similar open datasets. 
 Good luck with your data journey!
 
 <br>
