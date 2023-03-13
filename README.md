@@ -48,5 +48,5 @@ I initially launched this repo to organize my notes, but I decided I'd share it 
 
 My portfolio: 
 https://shot.mba<br>
-<a href = "https://shot.mba" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
+<a href = "https://shot.mba" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a><br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1JG8LF)
