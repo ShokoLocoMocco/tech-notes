@@ -97,7 +97,7 @@ ref: [How to Find Accurate and Compelling Data (hubspot.com)](https://blog.hubsp
 
 [HARVARD Dataverse](https://dataverse.harvard.edu/): https://dataverse.harvard.edu/
 
-[Mendeley Data](https://data.mendeley.com/): https://data.mendeley.com/ ✔️ GC email, M!
+[Mendeley Data](https://data.mendeley.com/): https://data.mendeley.com/ 
 
 [OSF (Open Science Framework)](https://osf.io/): https://osf.io/
 
