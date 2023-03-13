@@ -35,7 +35,7 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 
 ## Methodology and Technical Approaches
 📌 [Free Web Textbooks](https://shokolocomocco.github.io/tech-notes/resources/text) <br>
-📌 <br>
+📌 [Awesome Unicode List](https://github.com/ShokoLocoMocco/tech-notes/blob/6e2a04ea7734b28be7acb2bd84336d31eff59f6c/resources/unicodelist.md) <br>
 📌 <br>
 📌 <br>
 
