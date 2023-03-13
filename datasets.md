@@ -405,3 +405,9 @@ covers ↓
 -   Labour market
 -   Population
 -   Society
+
+<br>
+
+Check out my portfolio: 
+https://shot.mba<br>
+<a href = "https://shot.mba" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
