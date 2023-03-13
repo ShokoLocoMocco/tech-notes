@@ -5,7 +5,7 @@ I'd also appreciate if you have more data sources you'd want me to add. :)
 <br>
 
 
-Disclaimer: This is a randomly formatted personal list (may include duplicates) and appears to be entirely US centered (especially of NYC), but you may get the idea. Your local communities/governments should have similar open datasets. 
+Disclaimer: This is a randomly formatted personal list (may include duplicates, being organized accordingly) and appears to be entirely US centered (especially of NYC), but you may get the idea. Your local communities/governments should have similar open datasets. 
 Good luck with your data journey!
 
 <br>
