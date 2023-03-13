@@ -34,7 +34,7 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 📌 <br>
 
 ## Methodology and Technical Approaches
-📌 [Free Web Textbooks](/resources/text.md) <br>
+📌 [Free Web Textbooks](https://shokolocomocco.github.io/tech-notes/resources/text) <br>
 📌 <br>
 📌 <br>
 📌 <br>
