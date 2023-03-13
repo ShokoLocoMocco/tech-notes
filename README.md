@@ -1,5 +1,5 @@
 # 💎 Showee's Tech Notes ✍️🔖 ~ Data Analyst ver.
-I initially launched this repo to organize my notes, but I decided I'd also share it with my network, especially coding beginners.
+I initially launched this repo to organize my notes, but I decided I'd share it with whom may find it beneficial in my network, especially coding/analysis beginners.  If you have any suggestion to improve my notes, please let me know! 
 
 ## Datasets
 📌 [List of Dataset Resources](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/datasets.md) **EPIC!!!**<br>
@@ -43,3 +43,9 @@ I initially launched this repo to organize my notes, but I decided I'd also shar
 
 ## more to be added
 📌 stay tuned! <br>
+<br>
+<br>
+
+My portfolio: 
+https://shot.mba<br>
+<a href = "https://shot.mba" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
