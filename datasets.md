@@ -5,7 +5,8 @@ I'd also appreciate if you have more data sources you'd want me to add. :)
 <br>
 
 
-Disclaimer: This is a randomly-formatted personal note (may include duplicates, being organized accordingly) and appears to be entirely US centered (especially of NYC), but you may get the idea. Your local communities/governments should have similar open datasets. 
+Disclaimer: This is a randomly-formatted personal note (may include duplicates, being organized accordingly) and appears to be entirely US centered (especially of NYC), but you may get the idea. Your local communities/governments should have similar open datasets. If you find any dataset belonging and protected by an individual or organization, please claim for credit.
+
 Good luck with your data journey!
 
 <br>
@@ -410,4 +411,5 @@ covers ↓
 
 Check out my portfolio: 
 https://shot.mba<br>
-<a href = "https://shot.mba" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a> (C) Shokolatte Tachikawa 2023
+<a href = "https://shot.mba" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a> <br>
+(C) Shokolatte Tachikawa 2023
