@@ -10,6 +10,7 @@ Disclaimer: This is a randomly-formatted personal note (may include duplicates, 
 Good luck with your data journey!
 
 <br>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1JG8LF)
 
 <br>
@@ -417,4 +418,5 @@ https://shot.mba<br>
 (C) Shokolatte Tachikawa 2023
 
 <br>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1JG8LF)
