@@ -20,6 +20,7 @@ Sometimes the data to support a business objective isn’t readily available. Th
 A new car model was just launched a few days ago and the auto dealership can’t wait until the end of the month for sales data to come in. They want sales projections now.|The analyst proxies the number of clicks to the car specifications on the dealership’s website as an estimate of potential sales at the dealership.
 A brand new plant-based meat product was only recently stocked in grocery stores and the supplier needs to estimate the demand over the next four years. |The analyst proxies the sales data for a turkey substitute made out of tofu that has been on the market for several years.
 The Chamber of Commerce wants to know how a tourism campaign is going to impact travel to their city, but the results from the campaign aren’t publicly available yet.|The analyst proxies the historical data for airline bookings to the city one to three months after a similar campaign was run six months earlier.
+
 ref: [Google Data Analytics course: What to do when there is no data](https://www.coursera.org/learn/process-data/supplement/dOyv7/what-to-do-when-there-is-no-data)
 
 ## Open (public) datasets
