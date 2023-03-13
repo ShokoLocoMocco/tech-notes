@@ -61,7 +61,8 @@ Here's a list of "free" web textbooks I have appreciated from the get-go and to 
 <br>
 <br>
 <br>
-visit my portfolio: [ShoT.MBA](https://shot.mba) 
+
+visit my portfolio: [ShoT.MBA](https://shot.mba) <br>
 <br>
 
 You like what you see?  Buy me a coffee☕️❣️ <br>
