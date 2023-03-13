@@ -1,6 +1,6 @@
 # Showee's Epic Datasets List
 
-During my data exploration in the last few years, I collected datasets literally from anywhere in my reach.  With lots of support from my network, the list is getting longer and thought I'd share it with my data fellas tp pay it forward.  
+During my data exploration in the last few years, I collected datasets literally from anywhere in my reach.  With lots of support from my network, the list has been getting longer and thought I'd share it with my data fellas tp pay it forward.  
 I'd also appreciate if you have more data sources you'd want me to add. :)
 <br>
 
