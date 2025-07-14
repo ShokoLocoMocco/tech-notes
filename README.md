@@ -1,5 +1,5 @@
 # 💎 Showee's Tech Notes ✍️🔖 ~ Data Analyst ver.
-I initially launched this repo to organize my notes, but I decided I'd share it with whom may find it beneficial in my network, especially coding/analysis beginners.  If you have any suggestion to improve my notes, please let me know! 
+I initially launched this repo to organize my notes, but I decided I'd share it with whom may find it beneficial in my network, especially coding/analysis beginners.  If you have any suggestion to improve my notes, please let me know! ➡️ https://diligedata.com
 
 ## Datasets
 📌 [List of Dataset Resources](https://github.com/ShokoLocoMocco/tech-notes/blob/gh-pages/datasets.md) **EPIC!!!**<br>
